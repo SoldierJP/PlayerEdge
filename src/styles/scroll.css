@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+    width: 7px; /* Adjust width */
+  }
+  
+  
+  ::-webkit-scrollbar-track {
+    background: #204051; 
+  }
+  
+ 
+  ::-webkit-scrollbar-thumb {
+    background: #84A9AC; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #CAE8D5; /* Darker green when hovering */
+  }
+  

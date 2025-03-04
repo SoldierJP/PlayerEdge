@@ -1,0 +1,11 @@
+.nav-links .nav-link {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-links .nav-link:hover {
+  transform: translateY(-3px);
+}
+
+
+
+
